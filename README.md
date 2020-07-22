@@ -4,6 +4,6 @@
 ### I am Márcio Lemos. I have been working with QA since 2015 and enthusiastic about agile testing, test automation and backend development.
 
 - 🔭 I’m currently working spread the importance of the role of quality assurance in a development team. 
-- 🌱 I’m currently learning new technologies about devOps and test automation.
-- 💬 Ask me about: football, TV shows and about cars.
+- 🌱 I’m currently learning new technologies about DevOps and test automation.
+- 💬 Ask me about: football, TV shows and cars.
 -  ⚡ Technologies: Selenium, REST Assured, Cucumber, Behave, FastAPI, AWS.
