@@ -1,5 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Linkedin Badge](https://img.shields.io/badge/-Márcio_Lemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/márcio-lemos//)](https://www.linkedin.com/in/márcio-lemos/) [![Gmail Badge](https://img.shields.io/badge/-contato.marciovrl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.marciovrl@gmail.com)](mailto:contato.marciovrl@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Márcio_Lemos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/márcio-lemos//)](https://www.linkedin.com/in/márcio-lemos/) [![DEV Badge](https://img.shields.io/badge/-Márcio_Lemos-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/marciovrl/)](https://dev.to/marciovrl) [![Gmail Badge](https://img.shields.io/badge/-contato.marciovrl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.marciovrl@gmail.com)](mailto:contato.marciovrl@gmail.com)
 
 ### I am Márcio Lemos. I have been working with QA since 2015 and enthusiastic about agile testing, test automation and backend development.
 
